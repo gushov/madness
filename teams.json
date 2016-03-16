@@ -1,0 +1,586 @@
+{
+  "East": {
+    "1": {
+      "name": "Virginia",
+      "roundOf32": "96",
+      "sweet16": "71",
+      "elite8": "39",
+      "final4": "23",
+      "championship": "12",
+      "winner": "6"
+    },
+    "2": {
+      "name": "Villanova",
+      "roundOf32": "95",
+      "sweet16": "64",
+      "elite8": "41",
+      "final4": "21",
+      "championship": "9",
+      "winner": "4"
+    },
+    "3": {
+      "name": "Iowa State",
+      "roundOf32": "81",
+      "sweet16": "46",
+      "elite8": "20",
+      "final4": "8",
+      "championship": "3",
+      "winner": "1"
+    },
+    "4": {
+      "name": "Michigan State",
+      "roundOf32": "91",
+      "sweet16": "67",
+      "elite8": "39",
+      "final4": "24",
+      "championship": "12",
+      "winner": "6"
+    },
+    "5": {
+      "name": "Cincinnati",
+      "roundOf32": "58",
+      "sweet16": "19",
+      "elite8": "8",
+      "final4": "3",
+      "championship": "1",
+      "winner": "1"
+    },
+    "6": {
+      "name": "North Carolina",
+      "roundOf32": "68",
+      "sweet16": "36",
+      "elite8": "16",
+      "final4": "6",
+      "championship": "2",
+      "winner": "1"
+    },
+    "7": {
+      "name": "Connecticut",
+      "roundOf32": "67",
+      "sweet16": "26",
+      "elite8": "14",
+      "final4": "6",
+      "championship": "2",
+      "winner": "1"
+    },
+    "8": {
+      "name": "Memphis",
+      "roundOf32": "55",
+      "sweet16": "17",
+      "elite8": "6",
+      "final4": "2",
+      "championship": "1",
+      "winner": "1"
+    },
+    "9": {
+      "name": "George Washington",
+      "roundOf32": "45",
+      "sweet16": "12",
+      "elite8": "4",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "10": {
+      "name": "Saint Joseph's",
+      "roundOf32": "33",
+      "sweet16": "8",
+      "elite8": "3",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "11": {
+      "name": "Providence",
+      "roundOf32": "32",
+      "sweet16": "12",
+      "elite8": "4",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "12": {
+      "name": "Harvard",
+      "roundOf32": "42",
+      "sweet16": "12",
+      "elite8": "4",
+      "final4": "2",
+      "championship": "1",
+      "winner": "1"
+    },
+    "13": {
+      "name": "Delaware",
+      "roundOf32": "9",
+      "sweet16": "2",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "14": {
+      "name": "North Carolina Central",
+      "roundOf32": "19",
+      "sweet16": "5",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "15": {
+      "name": "Milwaukee",
+      "roundOf32": "5",
+      "sweet16": "1",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "16": {
+      "name": "Coastal Carolina",
+      "roundOf32": "4",
+      "sweet16": "1",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    }
+  },
+  "South": {
+    "1": {
+      "name": "Florida",
+      "roundOf32": "99",
+      "sweet16": "84",
+      "elite8": "62",
+      "final4": "41",
+      "championship": "26",
+      "winner": "14"
+    },
+    "2": {
+      "name": "Kansas",
+      "roundOf32": "92",
+      "sweet16": "67",
+      "elite8": "42",
+      "final4": "21",
+      "championship": "12",
+      "winner": "6"
+    },
+    "3": {
+      "name": "Syracuse",
+      "roundOf32": "89",
+      "sweet16": "50",
+      "elite8": "23",
+      "final4": "9",
+      "championship": "4",
+      "winner": "1"
+    },
+    "4": {
+      "name": "UCLA",
+      "roundOf32": "87",
+      "sweet16": "63",
+      "elite8": "19",
+      "final4": "8",
+      "championship": "4",
+      "winner": "1"
+    },
+    "5": {
+      "name": "Virginia Commonwealth",
+      "roundOf32": "76",
+      "sweet16": "29",
+      "elite8": "10",
+      "final4": "4",
+      "championship": "2",
+      "winner": "1"
+    },
+    "6": {
+      "name": "Ohio State",
+      "roundOf32": "75",
+      "sweet16": "40",
+      "elite8": "20",
+      "final4": "9",
+      "championship": "4",
+      "winner": "2"
+    },
+    "7": {
+      "name": "New Mexico",
+      "roundOf32": "64",
+      "sweet16": "22",
+      "elite8": "10",
+      "final4": "3",
+      "championship": "1",
+      "winner": "1"
+    },
+    "8": {
+      "name": "Colorado",
+      "roundOf32": "28",
+      "sweet16": "2",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "9": {
+      "name": "Pittsburgh",
+      "roundOf32": "72",
+      "sweet16": "14",
+      "elite8": "7",
+      "final4": "3",
+      "championship": "1",
+      "winner": "1"
+    },
+    "10": {
+      "name": "Stanford",
+      "roundOf32": "36",
+      "sweet16": "9",
+      "elite8": "3",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "11": {
+      "name": "Dayton",
+      "roundOf32": "25",
+      "sweet16": "8",
+      "elite8": "2",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "12": {
+      "name": "Stephen F. Austin",
+      "roundOf32": "24",
+      "sweet16": "4",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "13": {
+      "name": "Tulsa",
+      "roundOf32": "13",
+      "sweet16": "4",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "14": {
+      "name": "Western Michigan",
+      "roundOf32": "11",
+      "sweet16": "2",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "15": {
+      "name": "Eastern Kentucky",
+      "roundOf32": "8",
+      "sweet16": "2",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "16": {
+      "name": "Albany ",
+      "roundOf32": "1",
+      "sweet16": "1",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    }
+  },
+  "Midwest": {
+    "1": {
+      "name": "Wichita State",
+      "roundOf32": "98",
+      "sweet16": "59",
+      "elite8": "24",
+      "final4": "14",
+      "championship": "8",
+      "winner": "5"
+    },
+    "2": {
+      "name": "Michigan",
+      "roundOf32": "95",
+      "sweet16": "74",
+      "elite8": "37",
+      "final4": "14",
+      "championship": "6",
+      "winner": "3"
+    },
+    "3": {
+      "name": "Duke",
+      "roundOf32": "93",
+      "sweet16": "70",
+      "elite8": "43",
+      "final4": "18",
+      "championship": "9",
+      "winner": "5"
+    },
+    "4": {
+      "name": "Louisville",
+      "roundOf32": "93",
+      "sweet16": "78",
+      "elite8": "54",
+      "final4": "38",
+      "championship": "24",
+      "winner": "15"
+    },
+    "5": {
+      "name": "Saint Louis",
+      "roundOf32": "58",
+      "sweet16": "12",
+      "elite8": "4",
+      "final4": "2",
+      "championship": "1",
+      "winner": "1"
+    },
+    "6": {
+      "name": "Massachusetts",
+      "roundOf32": "32",
+      "sweet16": "6",
+      "elite8": "2",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "7": {
+      "name": "Texas",
+      "roundOf32": "50",
+      "sweet16": "13",
+      "elite8": "3",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "8": {
+      "name": "Kentucky",
+      "roundOf32": "74",
+      "sweet16": "34",
+      "elite8": "14",
+      "final4": "8",
+      "championship": "4",
+      "winner": "2"
+    },
+    "9": {
+      "name": "Kansas State",
+      "roundOf32": "26",
+      "sweet16": "7",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "10": {
+      "name": "Arizona State",
+      "roundOf32": "50",
+      "sweet16": "13",
+      "elite8": "3",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "13": {
+      "name": "Manhattan",
+      "roundOf32": "7",
+      "sweet16": "3",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "14": {
+      "name": "Mercer",
+      "roundOf32": "7",
+      "sweet16": "2",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "15": {
+      "name": "Wofford",
+      "roundOf32": "5",
+      "sweet16": "1",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "11": {
+      "name": "Tennessee ",
+      "roundOf32": "36",
+      "sweet16": "12",
+      "elite8": "6",
+      "final4": "2",
+      "championship": "1",
+      "winner": "1"
+    }	,
+    "12": {
+      "name": "North Carolina State",
+      "roundOf32": "15",
+      "sweet16": "2",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "16": {
+      "name": "Cal Poly ",
+      "roundOf32": "1",
+      "sweet16": "1",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    }
+  },
+  "West": {
+    "1": {
+      "name": "Arizona",
+      "roundOf32": "98",
+      "sweet16": "73",
+      "elite8": "58",
+      "final4": "42",
+      "championship": "23",
+      "winner": "13"
+    },
+    "2": {
+      "name": "Wisconsin",
+      "roundOf32": "93",
+      "sweet16": "72",
+      "elite8": "40",
+      "final4": "16",
+      "championship": "7",
+      "winner": "3"
+    },
+    "3": {
+      "name": "Creighton",
+      "roundOf32": "88",
+      "sweet16": "54",
+      "elite8": "30",
+      "final4": "12",
+      "championship": "5",
+      "winner": "3"
+    },
+    "4": {
+      "name": "San Diego State",
+      "roundOf32": "73",
+      "sweet16": "43",
+      "elite8": "14",
+      "final4": "7",
+      "championship": "2",
+      "winner": "1"
+    },
+    "5": {
+      "name": "Oklahoma",
+      "roundOf32": "64",
+      "sweet16": "33",
+      "elite8": "8",
+      "final4": "3",
+      "championship": "1",
+      "winner": "1"
+    },
+    "6": {
+      "name": "Baylor",
+      "roundOf32": "70",
+      "sweet16": "34",
+      "elite8": "14",
+      "final4": "4",
+      "championship": "2",
+      "winner": "1"
+    },
+    "7": {
+      "name": "Oregon",
+      "roundOf32": "65",
+      "sweet16": "19",
+      "elite8": "10",
+      "final4": "4",
+      "championship": "1",
+      "winner": "1"
+    },
+    "8": {
+      "name": "Gonzaga",
+      "roundOf32": "48",
+      "sweet16": "13",
+      "elite8": "8",
+      "final4": "4",
+      "championship": "1",
+      "winner": "1"
+    },
+    "9": {
+      "name": "Oklahoma State",
+      "roundOf32": "52",
+      "sweet16": "14",
+      "elite8": "9",
+      "final4": "5",
+      "championship": "2",
+      "winner": "1"
+    },
+    "10": {
+      "name": "Brigham Young",
+      "roundOf32": "35",
+      "sweet16": "7",
+      "elite8": "3",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "11": {
+      "name": "Nebraska",
+      "roundOf32": "30",
+      "sweet16": "9",
+      "elite8": "3",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "12": {
+      "name": "North Dakota State",
+      "roundOf32": "36",
+      "sweet16": "15",
+      "elite8": "2",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "13": {
+      "name": "New Mexico State",
+      "roundOf32": "27",
+      "sweet16": "10",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "14": {
+      "name": "Louisiana-Lafayette",
+      "roundOf32": "12",
+      "sweet16": "3",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "15": {
+      "name": "American University",
+      "roundOf32": "7",
+      "sweet16": "2",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    },
+    "16": {
+      "name": "Weber State",
+      "roundOf32": "2",
+      "sweet16": "1",
+      "elite8": "1",
+      "final4": "1",
+      "championship": "1",
+      "winner": "1"
+    }
+  }
+}
