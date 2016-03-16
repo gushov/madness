@@ -41,8 +41,7 @@ East,14,SF Austin,_,15%,6%,2%,1%,1%,1%
 South,8,Colorado,_,36%,4%,2%,1%,1%,1%
 West,12,Yale,_,39%,14%,4%,1%,1%,1%
 Midwest,8,Texas Tech,_,33%,5%,1%,1%,1%,1%
-East,11a,Tulsa,46%,15%,4%,1%,1%,1%,1%
-East,11b,Michigan,54%,19%,5%,2%,1%,1%,1%
+East,11,Michigan,54%,19%,5%,2%,1%,1%,1%
 East,8,USC,_,38%,3%,1%,1%,1%,1%
 Midwest,12,Ark._LR,_,16%,5%,1%,1%,1%,1%
 South,12,S. Dakota St.,_,21%,6%,1%,1%,1%,1%
@@ -61,7 +60,6 @@ Midwest,15,Mid. Tenn.,_,5%,1%,1%,1%,1%,1%
 South,15,UNC_Ash.,_,4%,1%,1%,1%,1%,1%
 East,15,Weber State,_,6%,1%,1%,1%,1%,1%
 East,16,FGCU,_,2%,1%,1%,1%,1%,1%
-West,16b,Southern,52%,1%,1%,1%,1%,1%,1%
+West,16,Southern,52%,1%,1%,1%,1%,1%,1%
 South,16,Austin Peay,_,1%,1%,1%,1%,1%,1%
 Midwest,16,Hampton,_,2%,1%,1%,1%,1%,1%
-West,16a,Holy Cross,48%,1%,1%,1%,1%,1%,1%

@@ -1,0 +1,137 @@
+======== roundOf32 ========
+======== East ========
+pushing:  UNC
+pushing:  FGCU
+pushing:  USC
+pushing:  Providence
+pushing:  Indiana
+pushing:  Chatt.
+pushing:  Kentucky
+pushing:  Stony Brook
+pushing:  Notre Dame
+pushing:  Michigan
+pushing:  W. Virginia
+pushing:  SF Austin
+pushing:  Wisconsin
+pushing:  Pittsburgh
+pushing:  Xavier
+pushing:  Weber State
+======== South ========
+pushing:  Kansas
+pushing:  Austin Peay
+pushing:  Colorado
+pushing:  UConn
+pushing:  Maryland
+pushing:  S. Dakota St.
+pushing:  California
+pushing:  Hawaii
+pushing:  Arizona
+pushing:  Wichita St.
+pushing:  Miami
+pushing:  Buffalo
+pushing:  Iowa
+pushing:  Temple
+pushing:  Villanova
+pushing:  UNC_Ash.
+======== Midwest ========
+pushing:  Virginia
+pushing:  Hampton
+pushing:  Texas Tech
+pushing:  Butler
+pushing:  Purdue
+pushing:  Ark._LR
+pushing:  Iowa State
+pushing:  Iona
+pushing:  Seton Hall
+pushing:  Gonzaga
+pushing:  Utah
+pushing:  Fresno State
+pushing:  Dayton
+pushing:  Syracuse
+pushing:  Michigan St.
+pushing:  Mid. Tenn.
+======== West ========
+pushing:  Oregon
+pushing:  Southern
+pushing:  St. Joseph's
+pushing:  Cincinnati
+pushing:  Baylor
+pushing:  Yale
+pushing:  Duke
+pushing:  UNC_Wilm.
+pushing:  Texas
+pushing:  N. Iowa
+pushing:  Texas A&M
+pushing:  Green Bay
+pushing:  Oregon St.
+pushing:  VCU
+pushing:  Oklahoma
+pushing:  CSU Bakers.
+UNC
+Providence
+Indiana
+Kentucky
+Notre Dame
+W. Virginia
+Pittsburgh
+Xavier
+Kansas
+UConn
+S. Dakota St.
+California
+Wichita St.
+Miami
+Temple
+UNC_Ash.
+Virginia
+Texas Tech
+Ark._LR
+Iona
+Gonzaga
+Utah
+Syracuse
+Michigan St.
+Oregon
+Cincinnati
+Baylor
+Duke
+Texas
+Texas A&M
+VCU
+Oklahoma
+======== sweet16 ========
+UNC
+Kentucky
+W. Virginia
+Xavier
+Kansas
+California
+Wichita St.
+Temple
+Virginia
+Iona
+Utah
+Michigan St.
+Oregon
+Duke
+Texas A&M
+Oklahoma
+======== elite8 ========
+UNC
+W. Virginia
+Kansas
+Wichita St.
+Virginia
+Michigan St.
+Duke
+Texas A&M
+======== final4 ========
+W. Virginia
+Kansas
+Michigan St.
+Texas A&M
+======== championship ========
+Kansas
+Michigan St.
+======== winner ========
+Kansas
