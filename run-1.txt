@@ -1,0 +1,138 @@
+======== roundOf32 ========
+======== East ========
+pushing:  Virginia
+pushing:  Coastal Carolina
+pushing:  Memphis
+pushing:  George Washington
+pushing:  Cincinnati
+pushing:  Harvard
+pushing:  Michigan State
+pushing:  Delaware
+pushing:  North Carolina
+pushing:  Providence
+pushing:  Iowa State
+pushing:  North Carolina Central
+pushing:  Connecticut
+pushing:  Saint Joseph's
+pushing:  Villanova
+pushing:  Milwaukee
+======== South ========
+pushing:  Florida
+pushing:  Albany 
+pushing:  Colorado
+pushing:  Pittsburgh
+pushing:  Virginia Commonwealth
+pushing:  Stephen F. Austin
+pushing:  UCLA
+pushing:  Tulsa
+pushing:  Ohio State
+pushing:  Dayton
+pushing:  Syracuse
+pushing:  Western Michigan
+pushing:  New Mexico
+pushing:  Stanford
+pushing:  Kansas
+pushing:  Eastern Kentucky
+======== Midwest ========
+pushing:  Wichita State
+pushing:  Cal Poly 
+pushing:  Kentucky
+pushing:  Kansas State
+pushing:  Saint Louis
+pushing:  North Carolina State
+pushing:  Louisville
+pushing:  Manhattan
+pushing:  Massachusetts
+pushing:  Tennessee 
+pushing:  Duke
+pushing:  Mercer
+pushing:  Texas
+pushing:  Arizona State
+pushing:  Michigan
+pushing:  Wofford
+======== West ========
+pushing:  Arizona
+pushing:  Weber State
+pushing:  Gonzaga
+pushing:  Oklahoma State
+pushing:  Oklahoma
+pushing:  North Dakota State
+pushing:  San Diego State
+pushing:  New Mexico State
+pushing:  Baylor
+pushing:  Nebraska
+pushing:  Creighton
+pushing:  Louisiana-Lafayette
+pushing:  Oregon
+pushing:  Brigham Young
+pushing:  Wisconsin
+pushing:  American University
+Virginia
+Memphis
+Harvard
+Delaware
+Providence
+Iowa State
+Connecticut
+Villanova
+Florida
+Pittsburgh
+Virginia Commonwealth
+UCLA
+Ohio State
+Syracuse
+Stanford
+Kansas
+Wichita State
+Kansas State
+Saint Louis
+Louisville
+Tennessee 
+Duke
+Arizona State
+Michigan
+Arizona
+Gonzaga
+Oklahoma
+San Diego State
+Baylor
+Creighton
+Oregon
+Wisconsin
+======== sweet16 ========
+Virginia
+Harvard
+Iowa State
+Villanova
+Pittsburgh
+UCLA
+Ohio State
+Kansas
+Wichita State
+Saint Louis
+Duke
+Michigan
+Arizona
+San Diego State
+Baylor
+Wisconsin
+======== elite8 ========
+Virginia
+Villanova
+UCLA
+Kansas
+Wichita State
+Duke
+Arizona
+Baylor
+======== final4 ========
+Villanova
+Kansas
+Duke
+Arizona
+======== championship ========
+Villanova
+Arizona
+======== winner ========
+Arizona
+

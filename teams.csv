@@ -1,69 +1,67 @@
 region,seed,team,1st,2nd,sweet 16,elite 8,final 4,champ,win
-Midwest,4,Louisville,_,93%,78%,54%,38%,24%,15%
-South,1,Florida,_,99%,84%,62%,41%,26%,14%
-West,1,Arizona,_,98%,73%,58%,42%,23%,13%
-South,2,Kansas,_,92%,67%,42%,21%,12%,6%
-East,1,Virginia,_,96%,71%,39%,23%,12%,6%
-East,4,Michigan State,_,91%,67%,39%,24%,12%,6%
-Midwest,3,Duke,_,93%,70%,43%,18%,9%,5%
-Midwest,1,Wichita State,_,98%,59%,24%,14%,8%,5%
-East,2,Villanova,_,95%,64%,41%,21%,9%,4%
-West,2,Wisconsin,_,93%,72%,40%,16%,7%,3%
-Midwest,2,Michigan,_,95%,74%,37%,14%,6%,3%
-West,3,Creighton,_,88%,54%,30%,12%,5%,3%
-Midwest,8,Kentucky,_,74%,34%,14%,8%,4%,2%
-South,6,Ohio State,_,75%,40%,20%,9%,4%,2%
-South,4,UCLA,_,87%,63%,19%,8%,4%,1%
-South,3,Syracuse,_,89%,50%,23%,9%,4%,1%
-East,3,Iowa State,_,81%,46%,20%,8%,3%,1%
-West,9,Oklahoma State,_,52%,14%,9%,5%,2%,1%
-East,6,North Carolina,_,68%,36%,16%,6%,2%,1%
-West,6,Baylor,_,70%,34%,14%,4%,2%,1%
-South,5,Virginia Commonwealth,_,76%,29%,10%,4%,2%,1%
-West,4,San Diego State,_,73%,43%,14%,7%,2%,1%
-East,7,Connecticut,_,67%,26%,14%,6%,2%,1%
-West,8,Gonzaga,_,48%,13%,8%,4%,1%,1%
-South,7,New Mexico,_,64%,22%,10%,3%,1%,1%
-West,5,Oklahoma,_,64%,33%,8%,3%,1%,1%
-South,9,Pittsburgh,_,72%,14%,7%,3%,1%,1%
-East,5,Cincinnati,_,58%,19%,8%,3%,1%,1%
-West,7,Oregon,_,65%,19%,10%,4%,1%,1%
-Midwest,11b,Tennessee ,52%,36%,12%,6%,2%,1%,1%
-Midwest,11a,Iowa,48%,32%,9%,5%,2%,1%,1%
-East,8,Memphis,_,55%,17%,6%,2%,1%,1%
-Midwest,5,Saint Louis,_,58%,12%,4%,2%,1%,1%
-East,12,Harvard,_,42%,12%,4%,2%,1%,1%
-East,9,George Washington,_,45%,12%,4%,1%,1%,1%
-Midwest,7,Texas,_,50%,13%,3%,1%,1%,1%
-East,11,Providence,_,32%,12%,4%,1%,1%,1%
-South,10,Stanford,_,36%,9%,3%,1%,1%,1%
-Midwest,10,Arizona State,_,50%,13%,3%,1%,1%,1%
-Midwest,9,Kansas State,_,26%,7%,1%,1%,1%,1%
-Midwest,12b,Xavier,64%,28%,5%,2%,1%,1%,1%
-West,11,Nebraska,_,30%,9%,3%,1%,1%,1%
-East,10,Saint Joseph's,_,33%,8%,3%,1%,1%,1%
-South,11,Dayton,_,25%,8%,2%,1%,1%,1%
-West,10,Brigham Young,_,35%,7%,3%,1%,1%,1%
-Midwest,6,Massachusetts,_,32%,6%,2%,1%,1%,1%
-West,12,North Dakota State,_,36%,15%,2%,1%,1%,1%
-South,8,Colorado,_,28%,2%,1%,1%,1%,1%
-West,13,New Mexico State,_,27%,10%,1%,1%,1%,1%
-South,13,Tulsa,_,13%,4%,1%,1%,1%,1%
-South,12,Stephen F. Austin,_,24%,4%,1%,1%,1%,1%
-Midwest,12a,North Carolina State,36%,15%,2%,1%,1%,1%,1%
-East,14,North Carolina Central,_,19%,5%,1%,1%,1%,1%
-Midwest,13,Manhattan,_,7%,3%,1%,1%,1%,1%
-East,13,Delaware,_,9%,2%,1%,1%,1%,1%
-Midwest,14,Mercer,_,7%,2%,1%,1%,1%,1%
-South,14,Western Michigan,_,11%,2%,1%,1%,1%,1%
-West,14,Louisiana-Lafayette,_,12%,3%,1%,1%,1%,1%
-South,15,Eastern Kentucky,_,8%,2%,1%,1%,1%,1%
-West,15,American University,_,7%,2%,1%,1%,1%,1%
-East,15,Milwaukee,_,5%,1%,1%,1%,1%,1%
-West,16,Weber State,_,2%,1%,1%,1%,1%,1%
-Midwest,15,Wofford,_,5%,1%,1%,1%,1%,1%
-East,16,Coastal Carolina,_,4%,1%,1%,1%,1%,1%
-South,16a,Albany ,52%,1%,1%,1%,1%,1%,1%
-South,16b,Mount St. Mary's,48%,1%,1%,1%,1%,1%,1%
-Midwest,16a,Cal Poly ,56%,1%,1%,1%,1%,1%,1%
-Midwest,16b,Texas Southern ,44%,1%,1%,1%,1%,1%,1%
+South,1,Kansas,_,99%,86%,68%,45%,32%,19%
+East,1,UNC,_,98%,91%,61%,44%,26%,15%
+Midwest,1,Virginia,_,98%,80%,52%,30%,17%,10%
+Midwest,2,Michigan St.,_,95%,78%,59%,34%,17%,9%
+West,2,Oklahoma,_,96%,82%,53%,32%,14%,7%
+South,2,Villanova,_,96%,77%,47%,22%,13%,6%
+East,4,Kentucky,_,93%,61%,25%,16%,8%,4%
+East,3,W. Virginia,_,85%,63%,40%,16%,7%,3%
+Midwest,5,Purdue,_,84%,52%,24%,13%,6%,3%
+West,1,Oregon,_,98%,72%,44%,23%,7%,3%
+West,3,Texas A&M,_,88%,55%,24%,12%,5%,2%
+South,11,Wichita St.,_,50%,32%,15%,6%,4%,2%
+East,2,Xavier,_,94%,60%,29%,10%,4%,2%
+South,6,Arizona,_,50%,31%,14%,6%,4%,2%
+West,4,Duke,_,85%,54%,26%,12%,4%,2%
+South,5,Maryland,_,79%,43%,13%,6%,3%,1%
+East,5,Indiana,_,88%,36%,11%,6%,3%,1%
+South,3,Miami,_,86%,35%,14%,5%,2%,1%
+Midwest,4,Iowa State,_,84%,40%,15%,6%,3%,1%
+West,5,Baylor,_,61%,27%,13%,6%,2%,1%
+West,6,Texas,_,70%,33%,13%,6%,2%,1%
+Midwest,3,Utah,_,87%,50%,15%,5%,2%,1%
+South,4,California,_,86%,48%,11%,4%,2%,1%
+South,7,Iowa,_,72%,19%,9%,3%,2%,1%
+Midwest,11,Gonzaga,_,60%,31%,9%,3%,1%,1%
+East,7,Wisconsin,_,63%,27%,11%,3%,1%,1%
+East,6,Notre Dame,_,66%,22%,10%,3%,1%,1%
+South,9,UConn,_,64%,10%,5%,2%,1%,1%
+Midwest,9,Butler,_,67%,15%,6%,2%,1%,1%
+West,9,Cincinnati,_,61%,18%,8%,3%,1%,1%
+Midwest,6,Seton Hall,_,40%,17%,5%,2%,1%,1%
+West,10,VCU,_,73%,14%,6%,2%,1%,1%
+Midwest,7,Dayton,_,52%,11%,5%,2%,1%,1%
+Midwest,10,Syracuse,_,48%,10%,4%,1%,1%,1%
+East,10,Pittsburgh,_,37%,13%,5%,1%,1%,1%
+East,9,Providence,_,62%,6%,2%,1%,1%,1%
+West,8,St. Joseph's,_,39%,9%,4%,1%,1%,1%
+West,11,N. Iowa,_,30%,10%,3%,1%,1%,1%
+East,14,SF Austin,_,15%,6%,2%,1%,1%,1%
+South,8,Colorado,_,36%,4%,2%,1%,1%,1%
+West,12,Yale,_,39%,14%,4%,1%,1%,1%
+Midwest,8,Texas Tech,_,33%,5%,1%,1%,1%,1%
+East,11a,Tulsa,46%,15%,4%,1%,1%,1%,1%
+East,11b,Michigan,54%,19%,5%,2%,1%,1%,1%
+East,8,USC,_,38%,3%,1%,1%,1%,1%
+Midwest,12,Ark._LR,_,16%,5%,1%,1%,1%,1%
+South,12,S. Dakota St.,_,21%,6%,1%,1%,1%,1%
+South,10,Temple,_,28%,4%,1%,1%,1%,1%
+West,13,UNC_Wilm.,_,15%,5%,1%,1%,1%,1%
+West,7,Oregon St.,_,27%,3%,1%,1%,1%,1%
+Midwest,13,Iona,_,16%,3%,1%,1%,1%,1%
+West,14,Green Bay,_,12%,3%,1%,1%,1%,1%
+East,13,Stony Brook,_,7%,2%,1%,1%,1%,1%
+East,12,Chatt.,_,12%,2%,1%,1%,1%,1%
+South,13,Hawaii,_,14%,3%,1%,1%,1%,1%
+Midwest,14,Fresno State,_,13%,3%,1%,1%,1%,1%
+South,14,Buffalo,_,14%,2%,1%,1%,1%,1%
+West,15,CSU Bakers.,_,4%,1%,1%,1%,1%,1%
+Midwest,15,Mid. Tenn.,_,5%,1%,1%,1%,1%,1%
+South,15,UNC_Ash.,_,4%,1%,1%,1%,1%,1%
+East,15,Weber State,_,6%,1%,1%,1%,1%,1%
+East,16,FGCU,_,2%,1%,1%,1%,1%,1%
+West,16b,Southern,52%,1%,1%,1%,1%,1%,1%
+South,16,Austin Peay,_,1%,1%,1%,1%,1%,1%
+Midwest,16,Hampton,_,2%,1%,1%,1%,1%,1%
+West,16a,Holy Cross,48%,1%,1%,1%,1%,1%,1%
