@@ -1,138 +1,137 @@
 ======== roundOf32 ========
 ======== East ========
-pushing:  Virginia
-pushing:  Coastal Carolina
-pushing:  Memphis
-pushing:  George Washington
-pushing:  Cincinnati
-pushing:  Harvard
-pushing:  Michigan State
-pushing:  Delaware
-pushing:  North Carolina
-pushing:  Providence
-pushing:  Iowa State
-pushing:  North Carolina Central
-pushing:  Connecticut
-pushing:  Saint Joseph's
 pushing:  Villanova
-pushing:  Milwaukee
-======== South ========
-pushing:  Florida
-pushing:  Albany 
-pushing:  Colorado
-pushing:  Pittsburgh
-pushing:  Virginia Commonwealth
-pushing:  Stephen F. Austin
-pushing:  UCLA
-pushing:  Tulsa
-pushing:  Ohio State
-pushing:  Dayton
-pushing:  Syracuse
-pushing:  Western Michigan
-pushing:  New Mexico
-pushing:  Stanford
-pushing:  Kansas
-pushing:  Eastern Kentucky
-======== Midwest ========
-pushing:  Wichita State
-pushing:  Cal Poly 
-pushing:  Kentucky
-pushing:  Kansas State
-pushing:  Saint Louis
-pushing:  North Carolina State
-pushing:  Louisville
-pushing:  Manhattan
-pushing:  Massachusetts
-pushing:  Tennessee 
-pushing:  Duke
-pushing:  Mercer
-pushing:  Texas
-pushing:  Arizona State
-pushing:  Michigan
-pushing:  Wofford
-======== West ========
-pushing:  Arizona
-pushing:  Weber State
-pushing:  Gonzaga
-pushing:  Oklahoma State
-pushing:  Oklahoma
-pushing:  North Dakota State
-pushing:  San Diego State
-pushing:  New Mexico State
-pushing:  Baylor
-pushing:  Nebraska
-pushing:  Creighton
-pushing:  Louisiana-Lafayette
-pushing:  Oregon
-pushing:  Brigham Young
+pushing:  Mount St. Mary’s / New Orleans
 pushing:  Wisconsin
-pushing:  American University
-Virginia
-Memphis
-Harvard
-Delaware
-Providence
-Iowa State
-Connecticut
+pushing:  Virginia Tech
+pushing:  Virginia
+pushing:  North Carolina-Wilmington
+pushing:  Florida
+pushing:  East Tennessee State
+pushing:  Southern Methodist
+pushing:  Providence / Southern California
+pushing:  Baylor
+pushing:  New Mexico State
+pushing:  South Carolina
+pushing:  Marquette
+pushing:  Duke
+pushing:  Troy
+======== South ========
+pushing:  North Carolina
+pushing:  Texas Southern
+pushing:  Arkansas
+pushing:  Seton Hall
+pushing:  Minnesota
+pushing:  Middle Tennessee
+pushing:  Butler
+pushing:  Winthrop
+pushing:  Cincinnati
+pushing:  Wake Forest / Kansas State
+pushing:  UCLA
+pushing:  Kent State
+pushing:  Dayton
+pushing:  Wichita State
+pushing:  Kentucky
+pushing:  Northern Kentucky
+======== Midwest ========
+pushing:  Kansas
+pushing:  North Carolina Central / UC-Davis
+pushing:  Miami (FL)
+pushing:  Michigan State
+pushing:  Iowa State
+pushing:  Nevada
+pushing:  Purdue
+pushing:  Vermont
+pushing:  Creighton
+pushing:  Rhode Island
+pushing:  Oregon
+pushing:  Iona
+pushing:  Michigan
+pushing:  Oklahoma State
+pushing:  Louisville
+pushing:  Jacksonville State
+======== West ========
+pushing:  Gonzaga
+pushing:  South Dakota State
+pushing:  Northwestern
+pushing:  Vanderbilt
+pushing:  Notre Dame
+pushing:  Princeton
+pushing:  West Virginia
+pushing:  Bucknell
+pushing:  Maryland
+pushing:  Xavier
+pushing:  Florida State
+pushing:  Florida Gulf Coast
+pushing:  Saint Mary's (CA)
+pushing:  Virginia Commonwealth
+pushing:  Arizona
+pushing:  North Dakota
 Villanova
+Wisconsin
+Virginia
 Florida
-Pittsburgh
-Virginia Commonwealth
-UCLA
-Ohio State
-Syracuse
-Stanford
-Kansas
-Wichita State
-Kansas State
-Saint Louis
-Louisville
-Tennessee 
-Duke
-Arizona State
-Michigan
-Arizona
-Gonzaga
-Oklahoma
-San Diego State
+Southern Methodist
 Baylor
+South Carolina
+Duke
+North Carolina
+Seton Hall
+Minnesota
+Winthrop
+Cincinnati
+UCLA
+Wichita State
+Kentucky
+Kansas
+Miami (FL)
+Nevada
+Purdue
 Creighton
 Oregon
-Wisconsin
-======== sweet16 ========
-Virginia
-Harvard
-Iowa State
-Villanova
-Pittsburgh
-UCLA
-Ohio State
-Kansas
-Wichita State
-Saint Louis
-Duke
 Michigan
+Louisville
+Gonzaga
+Vanderbilt
+Notre Dame
+West Virginia
+Maryland
+Florida State
+Virginia Commonwealth
 Arizona
-San Diego State
-Baylor
-Wisconsin
+======== sweet16 ========
+Villanova
+Virginia
+Southern Methodist
+South Carolina
+North Carolina
+Minnesota
+Cincinnati
+Wichita State
+Kansas
+Purdue
+Creighton
+Louisville
+Gonzaga
+Notre Dame
+Florida State
+Arizona
 ======== elite8 ========
 Virginia
-Villanova
-UCLA
-Kansas
-Wichita State
-Duke
+South Carolina
+North Carolina
+Cincinnati
+Purdue
+Louisville
+Gonzaga
 Arizona
-Baylor
 ======== final4 ========
-Villanova
-Kansas
-Duke
-Arizona
+Virginia
+Cincinnati
+Louisville
+Gonzaga
 ======== championship ========
-Villanova
-Arizona
+Virginia
+Louisville
 ======== winner ========
-Arizona
-
+Virginia

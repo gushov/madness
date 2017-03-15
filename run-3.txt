@@ -1,137 +1,137 @@
 ======== roundOf32 ========
 ======== East ========
-pushing:  UNC
-pushing:  FGCU
-pushing:  USC
-pushing:  Providence
-pushing:  Indiana
-pushing:  Chatt.
-pushing:  Kentucky
-pushing:  Stony Brook
-pushing:  Notre Dame
-pushing:  Michigan
-pushing:  W. Virginia
-pushing:  SF Austin
-pushing:  Wisconsin
-pushing:  Pittsburgh
-pushing:  Xavier
-pushing:  Weber State
-======== South ========
-pushing:  Kansas
-pushing:  Austin Peay
-pushing:  Colorado
-pushing:  UConn
-pushing:  Maryland
-pushing:  S. Dakota St.
-pushing:  California
-pushing:  Hawaii
-pushing:  Arizona
-pushing:  Wichita St.
-pushing:  Miami
-pushing:  Buffalo
-pushing:  Iowa
-pushing:  Temple
 pushing:  Villanova
-pushing:  UNC_Ash.
-======== Midwest ========
+pushing:  Mount St. Mary’s / New Orleans
+pushing:  Wisconsin
+pushing:  Virginia Tech
 pushing:  Virginia
-pushing:  Hampton
-pushing:  Texas Tech
-pushing:  Butler
-pushing:  Purdue
-pushing:  Ark._LR
-pushing:  Iowa State
-pushing:  Iona
-pushing:  Seton Hall
-pushing:  Gonzaga
-pushing:  Utah
-pushing:  Fresno State
-pushing:  Dayton
-pushing:  Syracuse
-pushing:  Michigan St.
-pushing:  Mid. Tenn.
-======== West ========
-pushing:  Oregon
-pushing:  Southern
-pushing:  St. Joseph's
-pushing:  Cincinnati
+pushing:  North Carolina-Wilmington
+pushing:  Florida
+pushing:  East Tennessee State
+pushing:  Southern Methodist
+pushing:  Providence / Southern California
 pushing:  Baylor
-pushing:  Yale
+pushing:  New Mexico State
+pushing:  South Carolina
+pushing:  Marquette
 pushing:  Duke
-pushing:  UNC_Wilm.
-pushing:  Texas
-pushing:  N. Iowa
-pushing:  Texas A&M
-pushing:  Green Bay
-pushing:  Oregon St.
-pushing:  VCU
-pushing:  Oklahoma
-pushing:  CSU Bakers.
-UNC
-Providence
-Indiana
-Kentucky
-Notre Dame
-W. Virginia
-Pittsburgh
-Xavier
-Kansas
-UConn
-S. Dakota St.
-California
-Wichita St.
-Miami
-Temple
-UNC_Ash.
+pushing:  Troy
+======== South ========
+pushing:  North Carolina
+pushing:  Texas Southern
+pushing:  Arkansas
+pushing:  Seton Hall
+pushing:  Minnesota
+pushing:  Middle Tennessee
+pushing:  Butler
+pushing:  Winthrop
+pushing:  Cincinnati
+pushing:  Wake Forest / Kansas State
+pushing:  UCLA
+pushing:  Kent State
+pushing:  Dayton
+pushing:  Wichita State
+pushing:  Kentucky
+pushing:  Northern Kentucky
+======== Midwest ========
+pushing:  Kansas
+pushing:  North Carolina Central / UC-Davis
+pushing:  Miami (FL)
+pushing:  Michigan State
+pushing:  Iowa State
+pushing:  Nevada
+pushing:  Purdue
+pushing:  Vermont
+pushing:  Creighton
+pushing:  Rhode Island
+pushing:  Oregon
+pushing:  Iona
+pushing:  Michigan
+pushing:  Oklahoma State
+pushing:  Louisville
+pushing:  Jacksonville State
+======== West ========
+pushing:  Gonzaga
+pushing:  South Dakota State
+pushing:  Northwestern
+pushing:  Vanderbilt
+pushing:  Notre Dame
+pushing:  Princeton
+pushing:  West Virginia
+pushing:  Bucknell
+pushing:  Maryland
+pushing:  Xavier
+pushing:  Florida State
+pushing:  Florida Gulf Coast
+pushing:  Saint Mary's (CA)
+pushing:  Virginia Commonwealth
+pushing:  Arizona
+pushing:  North Dakota
+Villanova
+Wisconsin
 Virginia
-Texas Tech
-Ark._LR
-Iona
-Gonzaga
-Utah
-Syracuse
-Michigan St.
-Oregon
-Cincinnati
+East Tennessee State
+Southern Methodist
 Baylor
+South Carolina
 Duke
-Texas
-Texas A&M
-VCU
-Oklahoma
-======== sweet16 ========
-UNC
+North Carolina
+Seton Hall
+Middle Tennessee
+Butler
+Cincinnati
+Kent State
+Dayton
 Kentucky
-W. Virginia
-Xavier
 Kansas
-California
-Wichita St.
-Temple
-Virginia
-Iona
-Utah
-Michigan St.
+Michigan State
+Iowa State
+Purdue
+Creighton
 Oregon
-Duke
-Texas A&M
-Oklahoma
-======== elite8 ========
-UNC
-W. Virginia
-Kansas
-Wichita St.
+Oklahoma State
+Louisville
+Gonzaga
+Vanderbilt
+Notre Dame
+Bucknell
+Xavier
+Florida Gulf Coast
+Saint Mary's (CA)
+North Dakota
+======== sweet16 ========
+Villanova
 Virginia
-Michigan St.
+Southern Methodist
 Duke
-Texas A&M
+North Carolina
+Butler
+Cincinnati
+Kentucky
+Kansas
+Purdue
+Creighton
+Oklahoma State
+Gonzaga
+Bucknell
+Florida Gulf Coast
+Saint Mary's (CA)
+======== elite8 ========
+Villanova
+Duke
+North Carolina
+Kentucky
+Kansas
+Oklahoma State
+Gonzaga
+Saint Mary's (CA)
 ======== final4 ========
-W. Virginia
+Duke
+Kentucky
 Kansas
-Michigan St.
-Texas A&M
+Gonzaga
 ======== championship ========
-Kansas
-Michigan St.
+Duke
+Gonzaga
 ======== winner ========
-Kansas
+Gonzaga

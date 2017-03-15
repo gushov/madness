@@ -22,12 +22,12 @@ fs.readFile('./teams.csv', { encoding: 'utf8', flag: 'r' }, function (err, data)
 
 		teams[teamData[0]][teamData[1]] = {
 			name: teamData[2],
-			roundOf32: teamData[4].replace('%', ''),
-			sweet16: teamData[5].replace('%', ''),
-			elite8: teamData[6].replace('%', ''),
-			final4: teamData[7].replace('%', ''),
-			championship: teamData[8].replace('%', ''),
-			winner: teamData[9].replace('%', '')
+			roundOf32: Math.ceil(teamData[4] * 100),
+			sweet16: Math.ceil(teamData[5] * 100),
+			elite8: Math.ceil(teamData[6] * 100),
+			final4: Math.ceil(teamData[7] * 100),
+			championship: Math.ceil(teamData[8] * 100),
+			winner: Math.ceil(teamData[9] * 100)
 		};
 	}
 
