@@ -70,22 +70,22 @@ pushing:  North Dakota
 Villanova
 Wisconsin
 Virginia
-East Tennessee State
+Florida
 Southern Methodist
 Baylor
 South Carolina
 Duke
 North Carolina
-Seton Hall
+Arkansas
 Middle Tennessee
 Butler
 Cincinnati
-Kent State
-Dayton
+UCLA
+Wichita State
 Kentucky
 Kansas
 Michigan State
-Iowa State
+Nevada
 Purdue
 Creighton
 Oregon
@@ -94,44 +94,44 @@ Louisville
 Gonzaga
 Vanderbilt
 Notre Dame
-Bucknell
-Xavier
-Florida Gulf Coast
-Saint Mary's (CA)
-North Dakota
+West Virginia
+Maryland
+Florida State
+Virginia Commonwealth
+Arizona
 ======== sweet16 ========
 Villanova
 Virginia
-Southern Methodist
+Baylor
 Duke
 North Carolina
-Butler
+Middle Tennessee
 Cincinnati
-Kentucky
+Wichita State
 Kansas
 Purdue
-Creighton
+Oregon
 Oklahoma State
 Gonzaga
-Bucknell
-Florida Gulf Coast
-Saint Mary's (CA)
+West Virginia
+Florida State
+Arizona
 ======== elite8 ========
 Villanova
 Duke
 North Carolina
-Kentucky
+Wichita State
 Kansas
-Oklahoma State
-Gonzaga
-Saint Mary's (CA)
+Oregon
+West Virginia
+Arizona
 ======== final4 ========
-Duke
-Kentucky
+Villanova
+Wichita State
 Kansas
-Gonzaga
+Arizona
 ======== championship ========
-Duke
-Gonzaga
+Villanova
+Arizona
 ======== winner ========
-Gonzaga
+Villanova

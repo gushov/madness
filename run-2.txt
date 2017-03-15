@@ -68,31 +68,31 @@ pushing:  Virginia Commonwealth
 pushing:  Arizona
 pushing:  North Dakota
 Villanova
-Virginia Tech
+Wisconsin
 Virginia
-East Tennessee State
+Florida
 Southern Methodist
 Baylor
-South Carolina
+Marquette
 Duke
 North Carolina
-Seton Hall
+Arkansas
 Middle Tennessee
 Butler
 Cincinnati
 UCLA
-Dayton
+Wichita State
 Kentucky
 Kansas
 Miami (FL)
 Iowa State
 Purdue
-Rhode Island
-Oregon
-Oklahoma State
+Creighton
+Iona
+Michigan
 Louisville
 Gonzaga
-Vanderbilt
+Northwestern
 Notre Dame
 West Virginia
 Maryland
@@ -102,36 +102,36 @@ Arizona
 ======== sweet16 ========
 Villanova
 Virginia
-Baylor
-South Carolina
+Southern Methodist
+Duke
 North Carolina
 Butler
 UCLA
 Kentucky
 Kansas
 Purdue
-Rhode Island
+Creighton
 Louisville
-Vanderbilt
+Gonzaga
 West Virginia
-Florida State
-Arizona
+Maryland
+Saint Mary's (CA)
 ======== elite8 ========
-Villanova
-Baylor
+Virginia
+Duke
 North Carolina
-UCLA
-Purdue
+Kentucky
+Kansas
 Louisville
-Vanderbilt
-Arizona
+West Virginia
+Saint Mary's (CA)
 ======== final4 ========
-Villanova
-North Carolina
-Louisville
-Arizona
+Virginia
+Kentucky
+Kansas
+West Virginia
 ======== championship ========
-North Carolina
-Louisville
+Kentucky
+Kansas
 ======== winner ========
-North Carolina
+Kansas
