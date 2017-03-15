@@ -73,65 +73,65 @@ Virginia
 Florida
 Southern Methodist
 Baylor
-South Carolina
+Marquette
 Duke
 North Carolina
-Arkansas
-Middle Tennessee
+Seton Hall
+Minnesota
 Butler
 Cincinnati
 UCLA
-Wichita State
+Dayton
 Kentucky
 Kansas
 Michigan State
-Nevada
+Iowa State
 Purdue
-Creighton
+Rhode Island
 Oregon
 Oklahoma State
 Louisville
 Gonzaga
 Vanderbilt
-Notre Dame
-West Virginia
+Princeton
+Bucknell
 Maryland
 Florida State
-Virginia Commonwealth
-Arizona
+Saint Mary's (CA)
+North Dakota
 ======== sweet16 ========
 Villanova
 Virginia
-Baylor
+Southern Methodist
 Duke
-North Carolina
-Middle Tennessee
-Cincinnati
-Wichita State
+Seton Hall
+Butler
+UCLA
+Kentucky
 Kansas
 Purdue
-Oregon
-Oklahoma State
+Rhode Island
+Louisville
 Gonzaga
-West Virginia
+Princeton
 Florida State
-Arizona
+Saint Mary's (CA)
 ======== elite8 ========
-Villanova
-Duke
-North Carolina
-Wichita State
-Kansas
-Oregon
-West Virginia
-Arizona
+Virginia
+Southern Methodist
+Butler
+UCLA
+Purdue
+Louisville
+Gonzaga
+Saint Mary's (CA)
 ======== final4 ========
-Villanova
-Wichita State
-Kansas
-Arizona
+Southern Methodist
+UCLA
+Purdue
+Gonzaga
 ======== championship ========
-Villanova
-Arizona
+Southern Methodist
+Purdue
 ======== winner ========
-Villanova
+Southern Methodist

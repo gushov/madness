@@ -29,7 +29,7 @@ var Game = lilobj.obj.extend({
 var Tournament = lilobj.obj.extend({
 
 	construct: function () {},
-	regions: ['East', 'West', 'Midwest', 'South'],
+	regions: ['West', 'East', 'Midwest', 'South'],
 	rounds: ['roundOf32', 'sweet16', 'elite8', 'final4', 'championship', 'winner'],
 	seeds: ['1', '16', '8', '9', '5', '12', '4', '13', '6', '11', '3', '14', '7', '10', '2', '15']
 

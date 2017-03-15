@@ -72,11 +72,11 @@ Wisconsin
 Virginia
 Florida
 Southern Methodist
-Baylor
-Marquette
+New Mexico State
+South Carolina
 Duke
 North Carolina
-Arkansas
+Seton Hall
 Middle Tennessee
 Butler
 Cincinnati
@@ -84,24 +84,24 @@ UCLA
 Wichita State
 Kentucky
 Kansas
-Miami (FL)
+Michigan State
 Iowa State
 Purdue
 Creighton
-Iona
-Michigan
+Oregon
+Oklahoma State
 Louisville
 Gonzaga
 Northwestern
 Notre Dame
 West Virginia
-Maryland
+Xavier
 Florida State
 Saint Mary's (CA)
-Arizona
+North Dakota
 ======== sweet16 ========
 Villanova
-Virginia
+Florida
 Southern Methodist
 Duke
 North Carolina
@@ -109,29 +109,29 @@ Butler
 UCLA
 Kentucky
 Kansas
-Purdue
-Creighton
+Iowa State
+Oregon
 Louisville
 Gonzaga
-West Virginia
-Maryland
+Notre Dame
+Florida State
 Saint Mary's (CA)
 ======== elite8 ========
-Virginia
+Villanova
 Duke
 North Carolina
 Kentucky
-Kansas
-Louisville
-West Virginia
+Iowa State
+Oregon
+Gonzaga
 Saint Mary's (CA)
 ======== final4 ========
-Virginia
-Kentucky
-Kansas
-West Virginia
+Duke
+North Carolina
+Oregon
+Gonzaga
 ======== championship ========
-Kentucky
-Kansas
+North Carolina
+Gonzaga
 ======== winner ========
-Kansas
+North Carolina
